@@ -60,5 +60,5 @@
         <url>scm:git:git@github.com:morri421/sfg-pet-clinic.git</url>
         <developerConnection>scm:git:git@github.com:morri421/sfg-pet-clinic.git</developerConnection>
     </scm>
-
+    //Test comment
 </project>
