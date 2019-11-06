@@ -56,8 +56,6 @@
     </build>
 
     <scm>
-        <connection>scm:git:git@github.com:morri421/sfg-pet-clinic.git</connection>
-        <url>scm:git:git@github.com:morri421/sfg-pet-clinic.git</url>
-        <developerConnection>scm:git:git@github.com:morri421/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/morri421/sfg-pet-clinic.git</developerConnection>
     </scm>
 </project>
