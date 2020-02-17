@@ -2,8 +2,6 @@ package sfgpetclinic.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import sfgpetclinic.map.OwnerMapService;
-import sfgpetclinic.map.VetMapService;
 import sfgpetclinic.model.Owner;
 import sfgpetclinic.model.Vet;
 import sfgpetclinic.services.OwnerService;

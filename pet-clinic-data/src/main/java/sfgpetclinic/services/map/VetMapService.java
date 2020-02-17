@@ -1,4 +1,4 @@
-package sfgpetclinic.map;
+package sfgpetclinic.services.map;
 
 import org.springframework.stereotype.Service;
 import sfgpetclinic.model.Vet;
